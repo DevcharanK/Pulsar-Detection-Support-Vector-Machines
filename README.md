@@ -11,3 +11,5 @@ averaged in both time and frequency. The remaining four variables are similarly 
 the DM-SNR curve. 
 
 The dataset is contained in pulsar_data_train.csv and pulsar_data_test.csv
+
+The PDF document contains the final report written by Devcharan K.
